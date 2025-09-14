@@ -1,4 +1,4 @@
-Atividade 1 
+
 
 primeiraParte = "Hello  World"
 segundaParte = "diogo"
